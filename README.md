@@ -3,8 +3,6 @@
 I am learning about web development techniques.
 
 ## Studied Language & Tools
-HTML/CSS/bootstrap/Linux/Vim/git/github/Docker/mysql/PostgreSQL/VSCode/Ruby/Ruby on Rails/Javascript/firebase/
-
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ruby,rails,javascript,firebase,html,css,bootstrap,linux,vim,git,github,docker,mysql,postgresql,vscode" />
